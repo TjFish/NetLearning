@@ -1,0 +1,7 @@
+C:\Users\oy\source\repos\MyReadWriteLock\MyReadWriteLock\bin\Debug\MyReadWriteLock.exe.config
+C:\Users\oy\source\repos\MyReadWriteLock\MyReadWriteLock\bin\Debug\MyReadWriteLock.exe
+C:\Users\oy\source\repos\MyReadWriteLock\MyReadWriteLock\bin\Debug\MyReadWriteLock.pdb
+C:\Users\oy\source\repos\MyReadWriteLock\MyReadWriteLock\obj\Debug\MyReadWriteLock.csprojAssemblyReference.cache
+C:\Users\oy\source\repos\MyReadWriteLock\MyReadWriteLock\obj\Debug\MyReadWriteLock.csproj.CoreCompileInputs.cache
+C:\Users\oy\source\repos\MyReadWriteLock\MyReadWriteLock\obj\Debug\MyReadWriteLock.exe
+C:\Users\oy\source\repos\MyReadWriteLock\MyReadWriteLock\obj\Debug\MyReadWriteLock.pdb
